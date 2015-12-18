@@ -5,6 +5,6 @@
   Cakir
   Salihi
   
-Model by Salihi
-View by Akdin
-Controller by Cakir
+#Model by Salihi
+#View by Akdin
+#Controller by Cakir
